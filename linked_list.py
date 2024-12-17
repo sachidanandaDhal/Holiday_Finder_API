@@ -20,6 +20,10 @@ class LinkedList:
     def add_at_end(self, data):
         """Add a node at the end of the linked list."""
         new_node = Node(data)
+#  It will fail because self.head is None, and you cannot access current.next on a None object.
+# This would result in an AttributeError.
+
+
         if not self.head:
             self.head = new_node
             return f"Added {data} as the first node."
