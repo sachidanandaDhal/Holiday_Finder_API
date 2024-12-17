@@ -62,3 +62,4 @@ class LinkedList:
             data_list.append(current.data)
             current = current.next
         return data_list
+#add a data node
