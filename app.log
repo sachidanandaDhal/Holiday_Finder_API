@@ -1,1 +1,90 @@
 2024-12-24 20:08:06,058 - ERROR - Attempt to add empty data at the beginning.
+2024-12-24 20:21:56,670 - ERROR - Error while reversing linked list: 'LinkedList' object has no attribute 'reverse'
+2024-12-24 20:22:34,475 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:22:36,220 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:22:39,744 - INFO - Successfully added data at the beginning: 2
+2024-12-24 20:22:42,635 - INFO - Successfully added data at the beginning: 3
+2024-12-24 20:22:45,491 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:22:48,160 - INFO - Successfully added data at the beginning: 5
+2024-12-24 20:22:51,359 - INFO - Successfully added data at the beginning: 6
+2024-12-24 20:24:12,411 - INFO - Data retrieved successfully.
+2024-12-24 20:24:33,418 - ERROR - Error while reversing linked list: 'LinkedList' object has no attribute 'reverse'
+2024-12-24 20:24:39,031 - ERROR - Error while reversing linked list: 'LinkedList' object has no attribute 'reverse'
+2024-12-24 20:24:48,371 - ERROR - Error while reversing linked list: 'LinkedList' object has no attribute 'reverse'
+2024-12-24 20:26:32,717 - INFO - Linked list reversed successfully.
+2024-12-24 20:29:58,290 - INFO - Linked list reversed successfully.
+2024-12-24 20:30:13,074 - WARNING - Linked list is empty.
+2024-12-24 20:31:00,917 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:31:10,696 - INFO - Successfully added data at the beginning: 2
+2024-12-24 20:31:12,873 - INFO - Successfully added data at the beginning: 3
+2024-12-24 20:31:15,525 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:31:21,116 - INFO - Data retrieved successfully.
+2024-12-24 20:31:29,899 - INFO - Linked list reversed successfully.
+2024-12-24 20:32:09,838 - INFO - Data retrieved successfully.
+2024-12-24 20:32:22,737 - INFO - Linked list reversed successfully.
+2024-12-24 20:36:48,794 - INFO - Linked list reversed successfully.
+2024-12-24 20:36:59,049 - WARNING - Linked list is empty.
+2024-12-24 20:37:31,605 - INFO - Successfully added data at the beginning: 3
+2024-12-24 20:37:34,103 - INFO - Successfully added data at the beginning: 2
+2024-12-24 20:37:36,979 - INFO - Successfully added data at the beginning: 5
+2024-12-24 20:37:39,978 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:37:42,908 - INFO - Successfully added data at the beginning: 6
+2024-12-24 20:37:49,051 - INFO - Linked list reversed successfully.
+2024-12-24 20:38:47,512 - INFO - Data retrieved successfully.
+2024-12-24 20:39:45,697 - ERROR - Error while reversing linked list: 'LinkedList' object has no attribute 'reverse'
+2024-12-24 20:39:52,797 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:39:55,115 - INFO - Successfully added data at the beginning: 2
+2024-12-24 20:39:57,619 - INFO - Successfully added data at the beginning: 3
+2024-12-24 20:40:00,750 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:40:04,302 - ERROR - Error while reversing linked list: 'LinkedList' object has no attribute 'reverse'
+2024-12-24 20:40:17,775 - INFO - Data retrieved successfully.
+2024-12-24 20:40:24,007 - ERROR - Error while reversing linked list: 'LinkedList' object has no attribute 'reverse'
+2024-12-24 20:41:26,470 - ERROR - Error while reversing linked list: 'function' object has no attribute 'reverse'
+2024-12-24 20:41:33,722 - WARNING - Linked list is empty.
+2024-12-24 20:41:39,196 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:41:41,904 - INFO - Successfully added data at the beginning: 2
+2024-12-24 20:41:44,192 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:41:47,034 - INFO - Successfully added data at the beginning: 5
+2024-12-24 20:41:49,613 - INFO - Data retrieved successfully.
+2024-12-24 20:41:56,166 - ERROR - Error while reversing linked list: 'function' object has no attribute 'reverse'
+2024-12-24 20:42:01,097 - ERROR - Error while reversing linked list: 'function' object has no attribute 'reverse'
+2024-12-24 20:43:55,783 - INFO - Successfully added data at the beginning: 5
+2024-12-24 20:43:58,366 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:44:01,121 - INFO - Successfully added data at the beginning: 2
+2024-12-24 20:44:03,703 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:44:08,569 - INFO - Data retrieved successfully.
+2024-12-24 20:44:16,747 - INFO - linked_list type: <class 'linked_list.LinkedList'>
+2024-12-24 20:44:16,747 - INFO - Linked list reversed successfully.
+2024-12-24 20:49:01,014 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:49:04,784 - INFO - Successfully added data at the beginning: 2
+2024-12-24 20:49:07,390 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:49:13,337 - INFO - Data retrieved successfully.
+2024-12-24 20:49:24,230 - INFO - linked_list type: <class 'linked_list.LinkedList'>
+2024-12-24 20:49:24,230 - INFO - Linked list reversed successfully.
+2024-12-24 20:49:49,048 - INFO - Data retrieved successfully.
+2024-12-24 20:54:16,224 - INFO - Successfully added data at the beginning: 3
+2024-12-24 20:54:19,029 - INFO - Successfully added data at the beginning: 1
+2024-12-24 20:54:21,714 - INFO - Successfully added data at the beginning: 4
+2024-12-24 20:54:25,930 - INFO - Successfully added data at the beginning: 6
+2024-12-24 20:54:31,403 - INFO - Data retrieved successfully.
+2024-12-24 20:54:38,894 - INFO - Linked list sorted successfully.
+2024-12-24 20:54:51,052 - INFO - Data retrieved successfully.
+2024-12-26 19:19:32,515 - ERROR - Non-integer data provided: s
+2024-12-26 19:21:36,242 - ERROR - Non-integer data provided: s
+2024-12-26 19:21:38,065 - ERROR - Non-integer data provided: s
+2024-12-26 19:22:08,897 - INFO - Successfully added data at the beginning: 1
+2024-12-26 19:22:31,146 - ERROR - Non-integer data provided: d
+2024-12-26 19:23:39,791 - ERROR - Non-integer data provided: s
+2024-12-26 19:50:47,026 - INFO - Successfully added data at the beginning: 1
+2024-12-26 19:50:53,971 - INFO - Data retrieved successfully.
+2024-12-26 19:50:56,790 - INFO - Data retrieved successfully.
+2024-12-26 19:50:57,382 - INFO - Data retrieved successfully.
+2024-12-26 19:51:16,651 - WARNING - Failed to update: Node with data 1 not found.
+2024-12-26 19:52:00,907 - WARNING - Failed to update: Node with data 1 not found.
+2024-12-26 19:52:16,445 - WARNING - Failed to delete: Node with data 1 not found.
+2024-12-26 19:54:18,982 - INFO - Successfully added data at the beginning: 1
+2024-12-26 19:54:21,569 - INFO - Successfully added data at the beginning: 1
+2024-12-26 19:54:42,468 - INFO - Successfully updated node: 1 to 2
+2024-12-26 19:55:48,052 - ERROR - Non-integer data provided: old_data=2, new_data=s
+2024-12-26 19:56:00,822 - INFO - Successfully deleted node: 2
+2024-12-27 13:09:53,193 - ERROR - Non-integer data provided: w
